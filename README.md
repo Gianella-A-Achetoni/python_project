@@ -1,6 +1,7 @@
  # Game project
 
 _Para correr el juego se debe seguir las instrucciones_
+
 _Para correr en terminal:_
 
 ```sh
